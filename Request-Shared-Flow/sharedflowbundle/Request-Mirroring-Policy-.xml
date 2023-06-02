@@ -1,0 +1,13 @@
+<SharedFlowBundle revision="7" name="Request-Mirroring-Policy-Shared">
+    <DisplayName>Request Shared Flow</DisplayName>
+    <Description>Request-Mirroring-Policy-Shared</Description>
+    <CreatedAt>1684132006706</CreatedAt>
+    <LastModifiedAt>1684132006706</LastModifiedAt>
+    <Policies>
+        <Policy>SC-Apigee-Call-Logs</Policy>
+    </Policies>
+    <SharedFlows>
+        <SharedFlow>default</SharedFlow>
+    </SharedFlows>
+    <subType>SharedFlow</subType>
+</SharedFlowBundle>

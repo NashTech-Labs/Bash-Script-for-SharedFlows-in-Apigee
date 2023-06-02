@@ -1,0 +1,13 @@
+<SharedFlowBundle revision="67" name="Response-Mirroring-Policy">
+    <DisplayName>SResponse Shared Flow</DisplayName>
+    <Description>Response Shared</Description>
+    <CreatedAt>1684403860750</CreatedAt>
+    <LastModifiedAt>1684403860750</LastModifiedAt>
+    <Policies>
+        <Policy>SC-Apigee-Call-Logs</Policy>
+    </Policies>
+    <SharedFlows>
+        <SharedFlow>default</SharedFlow>
+    </SharedFlows>
+    <subType>SharedFlow</subType>
+</SharedFlowBundle>
